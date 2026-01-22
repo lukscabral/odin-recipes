@@ -1,2 +1,1 @@
-# git_test
-"Hello, Odin!"
+An exercise of The Project Odin in creating a simple recipe webpage.
